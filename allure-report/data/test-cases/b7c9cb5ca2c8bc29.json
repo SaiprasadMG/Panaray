@@ -1,0 +1,163 @@
+{
+  "uid" : "b7c9cb5ca2c8bc29",
+  "name" : "test_login_with_valid_credentials_Duplicate[saiprasad.gondkar@williamoneilindia.com-saiprasad1!]",
+  "fullName" : "Tests.test_Login(duplicate).TestPanarayLoginDuplicate#test_login_with_valid_credentials_Duplicate",
+  "historyId" : "25bee6b83386602a4068386628f2dbfc",
+  "time" : {
+    "start" : 1695710942727,
+    "stop" : 1695710942887,
+    "duration" : 160
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setup_and_teardown",
+    "time" : {
+      "start" : 1695710924140,
+      "stop" : 1695710942725,
+      "duration" : 18585
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1695710924063,
+      "stop" : 1695710924140,
+      "duration" : 77
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "log_on_failure",
+    "time" : {
+      "start" : 1695710942725,
+      "stop" : 1695710942725,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "setup_and_teardown::0",
+    "time" : {
+      "start" : 1695710942889,
+      "stop" : 1695710944984,
+      "duration" : 2095
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "log_on_failure::0",
+    "time" : {
+      "start" : 1695710942888,
+      "stop" : 1695710942888,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('setup_and_teardown', 'log_on_failure')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_Login(duplicate)"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPanarayLoginDuplicate"
+  }, {
+    "name" : "host",
+    "value" : "WONIT11L32CV6Z"
+  }, {
+    "name" : "thread",
+    "value" : "21668-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Tests.test_Login(duplicate)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "email",
+    "value" : "'saiprasad.gondkar@williamoneilindia.com'"
+  }, {
+    "name" : "password",
+    "value" : "'saiprasad1!'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "887d0d14f9ecd059",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695710633865,
+        "stop" : 1695710634193,
+        "duration" : 328
+      }
+    }, {
+      "uid" : "ef6f564fb989a4f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695709696629,
+        "stop" : 1695709696863,
+        "duration" : 234
+      }
+    }, {
+      "uid" : "cd86d506addc0dd5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695667510676,
+        "stop" : 1695667510883,
+        "duration" : 207
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.usefixtures('setup_and_teardown', 'log_on_failure')" ]
+  },
+  "source" : "b7c9cb5ca2c8bc29.json",
+  "parameterValues" : [ "'saiprasad.gondkar@williamoneilindia.com'", "'saiprasad1!'" ]
+}

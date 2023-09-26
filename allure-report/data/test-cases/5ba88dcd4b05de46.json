@@ -1,0 +1,131 @@
+{
+  "uid" : "5ba88dcd4b05de46",
+  "name" : "test_login_with_valid_credentials",
+  "fullName" : "Tests.test_Login.TestPanarayLogin#test_login_with_valid_credentials",
+  "historyId" : "2bd447e0583fc0188b7f0d36d5b4bfed",
+  "time" : {
+    "start" : 1695667615902,
+    "stop" : 1695667616054,
+    "duration" : 152
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1695667460576,
+      "stop" : 1695667460664,
+      "duration" : 88
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "log_on_failure",
+    "time" : {
+      "start" : 1695667615902,
+      "stop" : 1695667615902,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "setup_and_teardown",
+    "time" : {
+      "start" : 1695667595838,
+      "stop" : 1695667615902,
+      "duration" : 20064
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "log_on_failure::0",
+    "time" : {
+      "start" : 1695667616055,
+      "stop" : 1695667616055,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "setup_and_teardown::0",
+    "time" : {
+      "start" : 1695667616057,
+      "stop" : 1695667618158,
+      "duration" : 2101
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('setup_and_teardown', 'log_on_failure')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_Login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPanarayLogin"
+  }, {
+    "name" : "host",
+    "value" : "WONIT11L32CV6Z"
+  }, {
+    "name" : "thread",
+    "value" : "23692-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Tests.test_Login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.usefixtures('setup_and_teardown', 'log_on_failure')" ]
+  },
+  "source" : "5ba88dcd4b05de46.json",
+  "parameterValues" : [ ]
+}

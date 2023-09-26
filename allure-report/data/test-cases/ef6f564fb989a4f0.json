@@ -1,0 +1,137 @@
+{
+  "uid" : "ef6f564fb989a4f0",
+  "name" : "test_login_with_valid_credentials_Duplicate[saiprasad.gondkar@williamoneilindia.com-saiprasad1!]",
+  "fullName" : "Tests.test_Login(duplicate).TestPanarayLoginDuplicate#test_login_with_valid_credentials_Duplicate",
+  "historyId" : "25bee6b83386602a4068386628f2dbfc",
+  "time" : {
+    "start" : 1695709696629,
+    "stop" : 1695709696863,
+    "duration" : 234
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1695709676833,
+      "stop" : 1695709676914,
+      "duration" : 81
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "log_on_failure",
+    "time" : {
+      "start" : 1695709696628,
+      "stop" : 1695709696628,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "setup_and_teardown",
+    "time" : {
+      "start" : 1695709676915,
+      "stop" : 1695709696628,
+      "duration" : 19713
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "log_on_failure::0",
+    "time" : {
+      "start" : 1695709696866,
+      "stop" : 1695709696866,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "setup_and_teardown::0",
+    "time" : {
+      "start" : 1695709696867,
+      "stop" : 1695709698989,
+      "duration" : 2122
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('setup_and_teardown', 'log_on_failure')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_Login(duplicate)"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPanarayLoginDuplicate"
+  }, {
+    "name" : "host",
+    "value" : "WONIT11L32CV6Z"
+  }, {
+    "name" : "thread",
+    "value" : "12312-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Tests.test_Login(duplicate)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "email",
+    "value" : "'saiprasad.gondkar@williamoneilindia.com'"
+  }, {
+    "name" : "password",
+    "value" : "'saiprasad1!'"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.usefixtures('setup_and_teardown', 'log_on_failure')" ]
+  },
+  "source" : "ef6f564fb989a4f0.json",
+  "parameterValues" : [ "'saiprasad.gondkar@williamoneilindia.com'", "'saiprasad1!'" ]
+}

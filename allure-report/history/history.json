@@ -1,0 +1,162 @@
+{
+  "2bd447e0583fc0188b7f0d36d5b4bfed" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d85b473715234c39",
+      "reportUrl" : "http://localhost:8080/job/Panaray/7/allure/#testresult/d85b473715234c39",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695711042025,
+        "stop" : 1695711042192,
+        "duration" : 167
+      }
+    } ]
+  },
+  "7aa590b2f4b1e5d028e013fb53ecb39d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "14c5c7ebc63f3bb2",
+      "reportUrl" : "http://localhost:8080/job/Panaray/7/allure/#testresult/14c5c7ebc63f3bb2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695710966757,
+        "stop" : 1695710969129,
+        "duration" : 2372
+      }
+    } ]
+  },
+  "9581a2f8ea7f6829aae721e266b65c65" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d3b2caebd9db8ee4",
+      "reportUrl" : "http://localhost:8080/job/Panaray/7/allure/#testresult/d3b2caebd9db8ee4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695710993196,
+        "stop" : 1695710996094,
+        "duration" : 2898
+      }
+    } ]
+  },
+  "25bee6b83386602a4068386628f2dbfc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b7c9cb5ca2c8bc29",
+      "reportUrl" : "http://localhost:8080/job/Panaray/7/allure/#testresult/b7c9cb5ca2c8bc29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695710942727,
+        "stop" : 1695710942887,
+        "duration" : 160
+      }
+    } ]
+  },
+  "6addbf70e8c0d7526b13f357185b8d06" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8df506166f1c8c7a",
+      "reportUrl" : "http://localhost:8080/job/Panaray/7/allure/#testresult/8df506166f1c8c7a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695711092955,
+        "stop" : 1695711095271,
+        "duration" : 2316
+      }
+    } ]
+  },
+  "97eea31a395f9e802bec8794824b1cfb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bb15648d800506c2",
+      "reportUrl" : "http://localhost:8080/job/Panaray/7/allure/#testresult/bb15648d800506c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695711019568,
+        "stop" : 1695711021900,
+        "duration" : 2332
+      }
+    } ]
+  },
+  "5a6613201dd37fc0eb91d469328736b8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8263f597205cdb3a",
+      "reportUrl" : "http://localhost:8080/job/Panaray/7/allure/#testresult/8263f597205cdb3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695711119315,
+        "stop" : 1695711121646,
+        "duration" : 2331
+      }
+    } ]
+  },
+  "da1af9640048de1a3dc56211ec8a481c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1f62d22995edc020",
+      "reportUrl" : "http://localhost:8080/job/Panaray/7/allure/#testresult/1f62d22995edc020",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695711066835,
+        "stop" : 1695711069183,
+        "duration" : 2348
+      }
+    } ]
+  }
+}

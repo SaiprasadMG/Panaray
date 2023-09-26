@@ -1,0 +1,81 @@
+[ {
+  "uid" : "8263f597205cdb3a",
+  "name" : "test_login_with_invalid_email_and_valid_password",
+  "time" : {
+    "start" : 1695711119315,
+    "stop" : 1695711121646,
+    "duration" : 2331
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b7c9cb5ca2c8bc29",
+  "name" : "test_login_with_valid_credentials_Duplicate[saiprasad.gondkar@williamoneilindia.com-saiprasad1!]",
+  "time" : {
+    "start" : 1695710942727,
+    "stop" : 1695710942887,
+    "duration" : 160
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "14c5c7ebc63f3bb2",
+  "name" : "test_login_with_invalid_credentials_Duplicate",
+  "time" : {
+    "start" : 1695710966757,
+    "stop" : 1695710969129,
+    "duration" : 2372
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d85b473715234c39",
+  "name" : "test_login_with_valid_credentials",
+  "time" : {
+    "start" : 1695711042025,
+    "stop" : 1695711042192,
+    "duration" : 167
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bb15648d800506c2",
+  "name" : "test_login_with_invalid_email_and_valid_password_Duplicate",
+  "time" : {
+    "start" : 1695711019568,
+    "stop" : 1695711021900,
+    "duration" : 2332
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f62d22995edc020",
+  "name" : "test_login_with_invalid_credentials",
+  "time" : {
+    "start" : 1695711066835,
+    "stop" : 1695711069183,
+    "duration" : 2348
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8df506166f1c8c7a",
+  "name" : "test_login_with_valid_email_and_invalid_password",
+  "time" : {
+    "start" : 1695711092955,
+    "stop" : 1695711095271,
+    "duration" : 2316
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d3b2caebd9db8ee4",
+  "name" : "test_login_with_valid_email_and_invalid_password_Duplicate",
+  "time" : {
+    "start" : 1695710993196,
+    "stop" : 1695710996094,
+    "duration" : 2898
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
